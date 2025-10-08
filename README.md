@@ -1,0 +1,1 @@
+# firacode-nerd-font-vscode
